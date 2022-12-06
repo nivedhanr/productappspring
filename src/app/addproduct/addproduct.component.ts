@@ -32,7 +32,7 @@ export class AddproductComponent {
           this.brand=""
           this.price=""
           this.sellername=""
-          this.distributor
+          this.distributor=""
          
         }else{
           alert("Something went wrong")
