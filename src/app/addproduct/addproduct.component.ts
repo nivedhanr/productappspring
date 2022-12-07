@@ -24,7 +24,7 @@ export class AddproductComponent {
       (response:any)=>{
         console.log(response)
         if (response.status == "success") {
-          alert("Course added successfully")
+          alert(" added successfully")
           this.productcode=""
           this.productname=""
           this.mandate=""
